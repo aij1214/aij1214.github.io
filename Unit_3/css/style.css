@@ -1,14 +1,12 @@
 body {
-	background: url(ivywall.jpg);
+	background: url(../images/ivywall.jpg);
 	background-size: cover;
 	text-align: center;
-	color: #09BD50;
+	color: #FFF;
 	font-family: Helvetica, sans-serif;
+	text-decoration: bold; 
 
 }
 hr {width: 300px;
 }
-
-div {
-	background: url(/images/ivywall.jpg);
-}
+#slogan {font-style: italic;}
