@@ -1,0 +1,7 @@
+body {
+	text-align: center; 
+	background: url("images/ivywall.jpg");
+	background-color: cover;
+	color: blue;
+	font-family: Arial, sans-serif;
+}
